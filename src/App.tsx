@@ -1,4 +1,9 @@
+import { Sidebar } from "./ui";
+
 export const App = () => {
-  return <>
-  </>;
+  return (
+    <>
+      <Sidebar></Sidebar>
+    </>
+  );
 };
